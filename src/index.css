@@ -5,8 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: rgb(73,73,191);
-  background: linear-gradient(90deg, rgba(73,73,191,1) 16%, rgba(227,226,245,1) 49%, rgba(120,196,212,1) 100%);
+  background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/02/569508-call-duty-ghosts-2-filtrado-posible-fecha-lanzamiento.jpg?tf=1920x);
 }
 
 code {
