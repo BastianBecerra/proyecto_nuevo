@@ -1,8 +1,15 @@
+.BGPaginaPrincipal{
+    background-image: url(https://logos-world.net/wp-content/uploads/2021/02/Gears-of-War-Logo.png);
+    background-size: 100%;
+}
 .primerParrafo {
-    color: #fff;
+    color: #000000;
     padding: 5%;
 }
 
 .imagenMasParrafo {
     padding: 85px;
+}
+.imagenMasParrafo img {
+    width: 30%; 
 }
