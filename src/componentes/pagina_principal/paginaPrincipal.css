@@ -13,3 +13,21 @@
 .imagenMasParrafo img {
     width: 30%; 
 }
+
+.ScInfo1{
+    background: red;
+    color: #fff;
+}
+
+.Info1 img{
+    width: 25%;
+    padding: 20px;
+}
+
+.Info1 {
+    padding: 20px;
+}
+
+.Info1 p {
+    text-align: center;
+}
