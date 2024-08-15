@@ -1,47 +1,43 @@
 const InfoGeneral2 = () => {
     return(
         <section>
-            <div>
+            <div className="ScInfo">
                 <h1>Info 2</h1>
             </div>
 
-            <div>
-                <div className="">
-                    <div>
+            <div className="container">
+                <div className="row">
+
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
                         <p>Logro 1: </p>
-
                     </div>
-                    <div>
+
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
-                        <p>Logro 1: </p>
-
+                        <p>Logro 2: </p>
                     </div>
-                    <div>
+
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
-                        <p>Logro 1: </p>
-
+                        <p>Logro 3: </p>
                     </div>
-                    <div>
+
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
-                        <p>Logro 1: </p>
-
+                        <p>Logro 4: </p>
                     </div>
-                    <div>
+
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
-                        <p>Logro 1: </p>
-
+                        <p>Logro 5: </p>
                     </div>
-                    <div>
+                    
+                    <div className="col-6 col-md py-4">
                         <img src="" alt="" />
-                        <p>Logro 1: </p>
-
+                        <p>Logro 6: </p>
                     </div>
-                    <div>
-                        <img src="" alt="" />
-                        <p>Logro 1: </p>
-
-                    </div>
+                
                 </div>
             </div>
         </section>
